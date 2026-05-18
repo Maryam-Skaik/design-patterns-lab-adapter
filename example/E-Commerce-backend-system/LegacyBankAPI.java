@@ -1,7 +1,7 @@
 package adapter;
 
 /**
- * 🏦 Adaptee (Existing Incompatible System)
+ * Adaptee (Existing Incompatible System)
  *
  * This class represents an external or legacy banking system
  * that was NOT designed to match our backend architecture.
