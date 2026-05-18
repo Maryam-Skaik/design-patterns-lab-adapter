@@ -18,7 +18,7 @@ package adapter;
 public class BankAdapter implements PaymentProcessor {
 
     /**
-     * 🔗 Wrapped external system (composition)
+     * Wrapped external system (composition)
      *
      * We use composition instead of inheritance to:
      * - reduce coupling
@@ -41,7 +41,7 @@ public class BankAdapter implements PaymentProcessor {
     }
 
     /**
-     * 🎯 Translates the standard method into legacy behavior
+     * Translates the standard method into legacy behavior
      *
      * Backend calls: pay()
      * Adapter converts it into: makeTransaction()
