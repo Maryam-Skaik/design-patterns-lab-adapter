@@ -13,7 +13,7 @@ This repository accompanies the lecture on the **Adapter Pattern**, focusing on 
 
 ▶️ Watch on YouTube:
 
-[Lecture Video](https://youtu.be/your-video-link)
+[Lecture Video](https://youtu.be/s8naiV7BOqc)
 
 ---
 
