@@ -1,9 +1,10 @@
 # 🧩 Adapter Design Pattern (Java)
 
 ![Java](https://img.shields.io/badge/Language-Java-blue.svg)
-![Pattern](https://img.shields.io/badge/Design%20Pattern-Structural-green.svg)
+![Pattern](https://img.shields.io/badge/Design%20Pattern-Structural-red.svg)
+![Pattern](https://img.shields.io/badge/Pattern-Command-pink)
+![Week](https://img.shields.io/badge/Week-9-green)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange.svg)
-![Focus](https://img.shields.io/badge/Focus-Integration%20%26%20Compatibility-purple.svg)
 
 ---
 
@@ -345,6 +346,32 @@ Each adapter handles one compatibility translation responsibility.
 | More Classes                 | Adds adapter layers           |
 | Extra Abstraction            | Slightly increases complexity |
 | Additional Translation Logic | Requires conversion handling  |
+
+---
+
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All solutions are available in the `/solutions` folder.
+
+Each solution includes:
+
+* UML + design explanation
+* Clean Java implementation
+* Adapter Pattern usage for integrating external systems
+* Separation between client, adapters, and adaptees
+* Encapsulation of integration logic inside dedicated adapter classes
+* Notes on design decisions and extensibility
+* Example usage via `Main.java`
+
+---
+
+### 🧪 Included Activities
+
+* 🧠 Activity: Multi Payment Gateway Integration System
+
+> Students should first implement the system independently, then compare their design with the provided solution.
 
 ---
 
